@@ -34,7 +34,7 @@ We construct a new benchmarks for Hangul OCR which has intractable number of cla
 <br/>
 
 > ### Citation
-[Our paper](https://arxiv.org/abs/2208.06079) is accepted on ECCV 2022 TiE workshop.   
+[Our paper](https://arxiv.org/abs/2208.06079) is accepted on [ECCV 2022 TiE workshop](https://sites.google.com/view/tie-eccv2022/accepted-papers?authuser=0).   
 ```
 @article{kim2022character,   
 title={Character decomposition to resolve class imbalance problem in Hangul OCR},   
