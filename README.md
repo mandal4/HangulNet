@@ -14,7 +14,6 @@ We construct a new benchmarks for Hangul OCR which has intractable number of cla
 |SFW <br/>test-set|[Google Drive](https://drive.google.com/file/d/1oBFPk3Ke8iLsUfiMAgxCjK_GO-41gAN3/view?usp=sharing)|To emphasize the class-imbalance problem in Korean character recognition, we have synthesized a new dataset containing a large number of minority classes using [SynthTiger](https://github.com/clovaai/synthtiger). The dataset contains a total of 18,831 standard foreign words that are registered in the [National Institute of the Korean Language](https://stdict.korean.go.kr/main/main.do).|
 |Unseen Characters <br/>test-set|[Google Drive](https://drive.google.com/file/d/163mrhOq2Pom0Y4CDHC7LqCHHo5yGnvgE/view?usp=sharing)|To evaluate robustness on the unseen characters, we have selected 72 characters in SFW that could not be represented with a common character encoding, and generated an image per character. |
 
-*AI Hub train-set shall be downloaded from the official website. We cropped text regions for training and this dataset will be available soon.
 
 <br/>
 
